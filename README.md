@@ -1,2 +1,6 @@
-# Trabalho-Final-PPI2
-Documentação do trabalho final realizado para a materia de Programação Para Internet 2
+# Progamacao-Para-Internet-II
+
+TRABALHO FINAL DA DISCIPLINA DE PROGRAMACAO PARA INTERNET II
+DESENVOLVIDO POR DYEGO HENRIQUE E HELLEN AYUMI
+
+O TRABALHO CONSISTE EM UMA LOJA VIRTURAL DE VESTIMENTAS ESPORTIVAS.
